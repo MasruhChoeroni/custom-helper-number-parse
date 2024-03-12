@@ -1,0 +1,15 @@
+{
+    "name": "mchoe/parse-number",
+    "autoload": {
+        "psr-4": {
+            "Mchoe\\ParseNumber\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Masruh Choeroni",
+            "email": "m.choeroni1988@gmail.com"
+        }
+    ],
+    "require": {}
+}
