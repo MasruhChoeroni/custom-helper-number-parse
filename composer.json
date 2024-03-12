@@ -13,6 +13,7 @@
             "email": "m.choeroni1988@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {}
 }
