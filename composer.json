@@ -14,5 +14,7 @@
             "email": "m.choeroni1988@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
