@@ -15,7 +15,7 @@
         }
     ],
     "require": {},
-    "minimum-stability": "stable",
+    "minimum-stability": "1.0.0",
     "prefer-stable": true,
     "version": "1.0.0"
 }
