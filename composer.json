@@ -1,7 +1,6 @@
 {
     "name": "mchoe/parse-number",
-    "type": "project",
-    "description": "Masih belajar.",
+    "description": "Test ya",
     "license": "MIT",
     "autoload": {
         "psr-4": {
@@ -14,8 +13,6 @@
             "email": "m.choeroni1988@gmail.com"
         }
     ],
-    "require": {},
     "minimum-stability": "stable",
-    "prefer-stable": false,
-    "version": "1.0.0"
+    "require": {}
 }
