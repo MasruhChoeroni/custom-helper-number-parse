@@ -1,5 +1,8 @@
 {
     "name": "mchoe/parse-number",
+    "type": "project",
+    "description": "Masih belajar.",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Mchoe\\ParseNumber\\": "src/"
